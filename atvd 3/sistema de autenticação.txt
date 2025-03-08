@@ -1,0 +1,25 @@
+funcionais
+área cadastro 
+pedir nome completo
+telefone com ddd
+algum email para contatos e para o login
+uma rede social como Linkedin, facebook ou instagram
+idade 
+
+área de login
+email ou telefone 
+local de senha 
+
+recuperação de senha 
+email que foi cadastrado 
+código de segurança que foi enviado para o email
+
+não funcionais 
+ 
+segurança e privacidade dos usuários 
+tudo feito online e por rede wi-fi tanto no local ou rede moveis
+desempenho para 100 ou mais pessoas acessarem sem bugs 
+
+regras de negocio 
+
+apenas pessoas maiores de 18 anos

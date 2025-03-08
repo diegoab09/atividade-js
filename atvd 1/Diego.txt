@@ -1,0 +1,201 @@
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>echo bem primeiro projeto inicia > index.html
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>css
+'css' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd css
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>echo bem primeiro projeto inicia > style.css
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>echoo body{fontr-family: Arial, sans-serif; background-color:beige} > style.css
+'echoo' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>echo body{fontr-family: Arial, sans-serif; background-color:beige} > style.css
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd assets
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>md img
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>md fonts
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\assets
+
+08/02/2025  11:26    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:26    <DIR>          fonts
+08/02/2025  11:25    <DIR>          img
+               0 arquivo(s)              0 bytes
+               4 pasta(s)   508.304.375.808 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd css
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>move style.css ..\assets
+        1 arquivo(s) movido(s).
+
+C:\Users\Aluno\Desktop\projeto_inicial\css>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd assets
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\assets
+
+08/02/2025  11:28    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:26    <DIR>          fonts
+08/02/2025  11:25    <DIR>          img
+08/02/2025  11:25                64 style.css
+               1 arquivo(s)             64 bytes
+               4 pasta(s)   508.304.506.880 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>echo console.log("Script carregado!")e"app.js" > script.js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>echo console.log("Aplicação Iniciada!"); > app.js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd htmal
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd html
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>copy index.html
+Não se pode copiar um arquivo nele mesmo.
+        0 arquivo(s) copiado(s).
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>copy index.html
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd.assets
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd assets
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>copy index.html
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>
+C:\Users\Aluno\Desktop\projeto_inicial\assets>copy ..\html\index.html
+        1 arquivo(s) copiado(s).
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>copy ..\html\index.html .
+Substituir .\index.html? (Sim/Não/Todos): Sim
+        1 arquivo(s) copiado(s).
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js> ren app.js mnain.js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js> ren mnain.js main.js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\js
+
+08/02/2025  11:39    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:32                38 main.js
+08/02/2025  11:31                35 script.js
+               2 arquivo(s)             73 bytes
+               2 pasta(s)   508.293.062.656 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cdhtml
+'cdhtml' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd html
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\html
+
+08/02/2025  11:21    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:21                30 index.html
+               1 arquivo(s)             30 bytes
+               2 pasta(s)   508.293.062.656 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd assets
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets> erase index.html
+
+C:\Users\Aluno\Desktop\projeto_inicial\assets>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial
+
+08/02/2025  10:59    <DIR>          .
+08/02/2025  10:58    <DIR>          ..
+08/02/2025  11:41    <DIR>          assets
+08/02/2025  11:28    <DIR>          css
+08/02/2025  11:21    <DIR>          html
+08/02/2025  11:39    <DIR>          js
+               0 arquivo(s)              0 bytes
+               6 pasta(s)   508.291.657.728 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd html
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\html
+
+08/02/2025  11:21    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:21                30 index.html
+               1 arquivo(s)             30 bytes
+               2 pasta(s)   508.291.059.712 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\html>cd..
+
+C:\Users\Aluno\Desktop\projeto_inicial>cd js
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 0CA1-0B03
+
+ Pasta de C:\Users\Aluno\Desktop\projeto_inicial\js
+
+08/02/2025  11:39    <DIR>          .
+08/02/2025  10:59    <DIR>          ..
+08/02/2025  11:32                38 main.js
+08/02/2025  11:31                35 script.js
+               2 arquivo(s)             73 bytes
+               2 pasta(s)   508.291.059.712 bytes disponíveis
+
+C:\Users\Aluno\Desktop\projeto_inicial\js>body { font-family: Arial, sans-serif; background-color: beige}body { font-family: Arial, sans-serif; background-color: beige}

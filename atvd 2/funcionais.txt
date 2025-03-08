@@ -1,0 +1,6 @@
+funcionais 
+o aluno deve poder escolher o livro e ver se o livro esta disponível ou não 
+o aluno poderá fazer um cadastro e usar seu RA para se identificar
+não funcionais
+o sistema terá que suportar o cadastro de todos os alunos e terá q suportar mais de 100 usuários simultaneamente 
+o principal uso devera ser por aparelho movel
